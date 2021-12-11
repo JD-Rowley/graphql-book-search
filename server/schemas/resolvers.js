@@ -43,7 +43,7 @@ const resolvers = {
                 const updatedBooksArr = await User.findOneAndUpdate(
                     { _id: context.user._id },
                     { $addToSet: { savedBooks: input } },
-                    { new: true }
+                    { new: true, runValidators: true }
                 );
 
                 return updatedBooksArr;
