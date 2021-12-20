@@ -28,4 +28,4 @@
   * Repo: https://github.com/JD-Rowley/graphql-book-search
   
   ### Click on the image to be taken to the App!
-[![Sample Page Layout](/assets/img/book-search.jpg)](https://jd-rowley.github.io/graphql-book-search)
+[![Sample Page Layout](/assets/img/book-search.jpg)](https://frozen-plains-88983.herokuapp.com/)
